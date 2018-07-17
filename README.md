@@ -33,11 +33,11 @@ generated images are below.
 ex1)  Food101/dumplings  
 ![resultimage_dumplings01_990](https://user-images.githubusercontent.com/15444879/42793211-0344f4c8-89b4-11e8-9062-37f7edfffa09.png)  
 
-ex2)  Food101/sushi  
+ex2)  Food101/paella  
 ![resultimage_paella01_990](https://user-images.githubusercontent.com/15444879/42793229-1c831a0a-89b4-11e8-8ee9-d21b0e90dd86.png)  
 
 ex3)  Food101/pho  
 ![resultimage_pho01_990](https://user-images.githubusercontent.com/15444879/42793237-237a8d34-89b4-11e8-95b8-580481c7f9e7.png)  
 
-ex4)  Food101/paella  
+ex4)  Food101/sushi  
 ![resultimage_sushi01_990](https://user-images.githubusercontent.com/15444879/42793242-2884a08a-89b4-11e8-8954-6dfda042dd28.png)  
