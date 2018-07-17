@@ -8,6 +8,9 @@ I confirmed operation only with..
 2)tensorflow==1.8.0   
 3)matplotlib==2.0.0  
 
+# architecture  
+The architecture of LSGAN is based on https://github.com/hei4/DLRepertoire03.  
+
 # computation graph  
 1) over all  
 ![tensorboard_lsgan_01_all](https://user-images.githubusercontent.com/15444879/42793425-0be7640c-89b5-11e8-8b24-3b0f7284aae6.png)  
