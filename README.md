@@ -9,11 +9,21 @@ I confirmed operation only with..
 3)matplotlib==2.0.0  
 
 # computation graph  
+1) over all  
+![tensorboard_lsgan_01_all](https://user-images.githubusercontent.com/15444879/42793425-0be7640c-89b5-11e8-8b24-3b0f7284aae6.png)  
 
+2) around generator  
+![tensorboard_lsgan_02_g](https://user-images.githubusercontent.com/15444879/42793432-11e667f4-89b5-11e8-908b-884d65663bde.png)  
+
+3) around discriminator  
+![tensorboard_lsgan_03_d](https://user-images.githubusercontent.com/15444879/42793440-18c2a3c6-89b5-11e8-998e-5a2dc506af71.png)  
+
+4) around loss  
+![tensorboard_lsgan_04_loss](https://user-images.githubusercontent.com/15444879/42793451-1f2d0080-89b5-11e8-932b-466d68f049dd.png)  
 
 # Prediction  
 generated images are below.  
-ex1)  Food101/dumplings
+ex1)  Food101/dumplings  
 ![resultimage_dumplings01_990](https://user-images.githubusercontent.com/15444879/42793211-0344f4c8-89b4-11e8-9062-37f7edfffa09.png)  
 
 ex2)  Food101/sushi  
