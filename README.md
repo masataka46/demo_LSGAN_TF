@@ -2,6 +2,10 @@
 This is the demo program of LSGAN using tensorflow.  
 It needs input data like Food101 datasets.  
 
+# literature  
+X. Mao, et. al. "Least Squares Generative Adversarial Networks"  
+https://arxiv.org/pdf/1611.04076.pdf  
+
 # dependency  
 I confirmed operation only with..  
 1)python==3.6.0    
